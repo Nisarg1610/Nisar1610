@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Netflix Clone in MEARN stack**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **GraphQL**
 
 - 👨‍💻 All of my projects are available at [Port](Port)
 
